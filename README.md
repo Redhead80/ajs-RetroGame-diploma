@@ -1,5 +1,5 @@
 # AJS. Retro Game
-https://sergius92739.github.io/ajs-diploma/
+https://redhead80.github.io/ajs-RetroGame-diploma/
 
 ###### tags: `netology` `advanced js`
 
