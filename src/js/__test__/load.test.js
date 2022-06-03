@@ -1,4 +1,4 @@
-import GamePlay from '../GamePlay';
+import GamePlay from '../GamePlay.';
 import GameStateService from '../GameStateService';
 
 test('Метод load должен выбросить ошибку №1', () => {
